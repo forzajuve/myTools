@@ -1,13 +1,1 @@
-def initMyGradleEnvironment(){
-    println "initialize My Gradle Environment ....."
-    println "干一些special的私活...."
-    println "In setting, gradle id is " +gradle.hashCode()
-    println "Home Dir:" + gradle.gradleHomeDir
-    println "User Home Dir:" + gradle.gradleUserHomeDir
-    println "Parent: " + gradle.parent
-    //println "rootProject.getRootDir().getAbsolutePath():="+rootProject.getRootDir().getAbsolutePath()
-    println "initialize My Gradle Environment completes..."
-}
-//settings.gradle加载的时候，会执行initMinshengGradleEnvironment
-initMyGradleEnvironment()
 include ':app'
