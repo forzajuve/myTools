@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.forzajuve.tool;
+package view.custom.forzajuve.com.myapplication;
 
 import android.os.Handler;
 import android.os.Looper;

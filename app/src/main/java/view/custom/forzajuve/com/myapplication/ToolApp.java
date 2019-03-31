@@ -1,4 +1,4 @@
-package com.forzajuve.tool;
+package view.custom.forzajuve.com.myapplication;
 
 import android.app.Application;
 
